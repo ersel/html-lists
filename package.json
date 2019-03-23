@@ -1,0 +1,25 @@
+{
+  "name": "lists",
+  "version": "1.0.0",
+  "description": "Wigan coding curriculum(lists)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wigan-Coding-Meet-Up/html-lists.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Ryan Brockley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wigan-Coding-Meet-Up/html-lists/issues"
+  },
+  "homepage": "https://github.com/Wigan-Coding-Meet-Up/html-lists#readme",
+  "dependencies": {
+    "eslint": "^5.15.3"
+  }
+}
