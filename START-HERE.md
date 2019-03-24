@@ -12,7 +12,7 @@ ___
 
 An <b>Ordered List </b>typically looks like this:
 
-```
+```html
 <ol>
   <li>List item one</li>
   <li>List item two</li>
@@ -43,11 +43,13 @@ ___
 
 An <b>Un-Ordered List </b>typically looks like this:
 
+```html
 <ul>
   <li>List item</li>
   <li>List item</li>
   <li>List item</li>
 </ul>
+```
 
 Notice how the list item's are not numbered this time? Hence the name <b>Un-Ordered List</b>
 This is created in HTML with the  &#60;ul&#62; and &#60;li&#62;  tags.
@@ -72,7 +74,7 @@ ___
 
 An <b> Nested Ordered List </b>typically looks like this:
 
-```
+```html
 <ol>
   <li>List item 1</li>
     <ol>
