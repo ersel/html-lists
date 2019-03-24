@@ -18,7 +18,7 @@ Start by creating a new folder on your Desktop called <b>projects</b>
 
 ### Installing
 
-Navigate to the repository you have forked and cloned.
+In your terminal, navigate to the repository you have forked and cloned.
 
 ```
 CD Desktop, CD projects, CD HTML5-forms
