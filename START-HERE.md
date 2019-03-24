@@ -123,7 +123,7 @@ Can you use <b>Chrome Developer Tools</b> to inspect some websites and see if yo
 
 ## Check here for screenshots and help
 
-![](images/lists.PNG)
+![](Images/lists.PNG)
 
 ## Authors
 
