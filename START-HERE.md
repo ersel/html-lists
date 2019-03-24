@@ -116,3 +116,9 @@ Can you use <b>Chrome Developer Tools</b> to inspect some websites and see if yo
 * [ul lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 * [ol lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 * [li tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
+
+
+
+## Authors
+
+* **Ryan Brockley** - projects - [GitHub](https://github.com/RyBrockers)
