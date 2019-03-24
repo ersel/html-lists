@@ -23,9 +23,11 @@ The &#60;li&#62; tag is the "List Item" tag. These tag's go together to make the
 Here is how the HTML should look:
 
 &#60;ol&#62;
+<br>
 &#60;li&#62;List item one&#60;/li&#62;
 <br>
 &#60;li&#62;List item two&#60;/li&#62;
 <br>
 &#60;li&#62;List item three&#60;/li&#62;
+<br>
 &#60;/ol&#62;
