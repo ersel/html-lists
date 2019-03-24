@@ -65,31 +65,31 @@ ___
 
 ### Nested Lists
 
-An <b> Nested Un-Ordered List </b>typically looks like this:
+An <b> Nested Ordered List </b>typically looks like this:
 
-<ul>
+<ol>
   <li>List item 1</li>
-    <ul>
+    <ol>
       <li>List item 1a</li>
       <li>List item 1b</li>
       <li>List item 1c</li>
-    </ul>
+    </ol>
   <li>List item 2</li>
   <li>List item 3</li>
-</ul>
+</ol>
 
-Notice how the list item's are now nested this time? Hence the name <b>Nested Un-Ordered List</b>
-This is created in HTML with the  &#60;ul&#62; and  &#60;li&#62; tags.
+Notice how the list item's are now nested this time? Hence the name <b>Nested Ordered List</b>
+This is created in HTML with the  &#60;ol&#62; and  &#60;li&#62; tags.
 
-The &#60;li&#62; tag is the "List Item" tag. These tag's go together to make the <b>Un-Ordered List </b>.
+The &#60;li&#62; tag is the "List Item" tag. These tag's go together to make the <b>Ordered List </b>.
 
 Here is what the HTML should look like:
 
-&#60;ul&#62;
+&#60;ol&#62;
 <br>
 &#60;li&#62;List item&#60;/li&#62;
 <br>
-    &#60;ul&#62;
+    &#60;ol&#62;
 <br>
       &#60;li&#62;List item 1a&#60;/li&#62;
 <br>
@@ -97,14 +97,14 @@ Here is what the HTML should look like:
 <br>
       &#60;li&#62;List item 1c&#60;/li&#62;
 <br>
-    &#60;ul&#62;
+    &#60;ol&#62;
 <br>
 &#60;li&#62;List item&#60;/li&#62;
 <br>
 &#60;li&#62;List item&#60;/li&#62;
 <br>
-&#60;/ul&#62;
+&#60;/ol&#62;
 
 ## Challenge Time!
 
-Can you complete the <b>Nested Ordered List</b> by yourself? use the <span>index.html</span> file and see if you can create some lists of your own!
+Can you complete the <b>Nested Un-Ordered List</b> by yourself? use the <span>index.html</span> file and see if you can create some lists of your own!
