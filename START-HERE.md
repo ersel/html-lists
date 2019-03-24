@@ -121,6 +121,9 @@ Can you use <b>Chrome Developer Tools</b> to inspect some websites and see if yo
 * [li tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
 
 
+## Check here for screenshots and help
+
+![](images/lists.PNG)
 
 ## Authors
 
