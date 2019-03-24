@@ -6,7 +6,7 @@ HTML5 Lists BoilerPlate Repo for Wigan Coding Meet Up. Explanitary purposes.
 
  Fork and Clone this repo into your projects folder on your computer.
 
-* [HTML5-lists](https://github.com/Wigan-Coding-Meet-Up/HTML5-forms.git)
+* [HTML5-lists](https://github.com/Wigan-Coding-Meet-Up/html-lists)
 
 ### Installing
 
