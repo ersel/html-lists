@@ -3,6 +3,8 @@
 In this section we will learn about the types of Lists in HTML, why we would use them and when?
 
 There are usually 2 types of Lists in HTML.
+
+We usually use lists in HTML to list items on a website or to list items of content. There are many reasons to use these lists and hopefully these will become obvious the more we practice.
 ___
 
 ### Ordered Lists
