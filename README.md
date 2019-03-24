@@ -13,7 +13,9 @@ Start by creating a new folder on your Desktop called <b>projects</b>
  If you are un-aware how to Fork or Clone a repository at this point, then please read:
 
 * [Fork A Repo](https://help.github.com/en/articles/fork-a-repo)
+
 <br>
+
 * [Cloning A Repository](https://help.github.com/en/articles/cloning-a-repository)
 
 
