@@ -7,7 +7,8 @@ There are usually 2 types of Lists in HTML.
 We usually use lists in HTML to list items on a website or to list items of content. There are many reasons to use these lists and hopefully these will become obvious the more we practice.
 ___
 
-### Ordered Lists
+### Ordered Lists :arrow_forward:
+
 
 An <b>Ordered List </b>typically looks like this:
 
