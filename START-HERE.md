@@ -7,7 +7,7 @@ There are usually 2 types of Lists in HTML.
 We usually use lists in HTML to list items on a website or to list items of content. There are many reasons to use these lists and hopefully these will become obvious the more we practice.
 ___
 
-### Ordered Lists :arrow_forward:
+### Ordered Lists  :arrow_forward:
 
 
 An <b>Ordered List </b>typically looks like this:
@@ -37,7 +37,7 @@ Here is what the HTML should look like:
 
 ___
 
-### Un-Ordered Lists
+### Un-Ordered Lists  :arrow_forward:
 
 An <b>Un-Ordered List </b>typically looks like this:
 
@@ -66,7 +66,7 @@ Here is what the HTML should look like:
 
 ___
 
-### Nested Lists
+### Nested Lists  :arrow_forward:
 
 An <b> Nested Ordered List </b>typically looks like this:
 
@@ -108,7 +108,7 @@ Here is what the HTML should look like:
 <br>
 &#60;/ol&#62;
 
-## Challenge Time!
+## Challenge Time!  :white_check_mark:
 
 Can you complete the <b>Nested Un-Ordered List</b> by yourself? use the <span>index.html</span> file and see if you can create some lists of your own!
 <br>
