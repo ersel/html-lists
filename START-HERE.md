@@ -90,11 +90,12 @@ Here is what the HTML should look like:
 &#60;li&#62;List item&#60;/li&#62;
 <br>
 &#60;ul&#62;
-&#60;li&#62;List item&#60;/li&#62;
 <br>
-&#60;li&#62;List item&#60;/li&#62;
+&#60;li&#62;List item 1a&#60;/li&#62;
 <br>
-&#60;li&#62;List item&#60;/li&#62;
+&#60;li&#62;List item 1b&#60;/li&#62;
+<br>
+&#60;li&#62;List item 1c&#60;/li&#62;
 <br>
 &#60;ul&#62;
 <br>
