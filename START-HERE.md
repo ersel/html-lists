@@ -3,6 +3,7 @@
 In this section we will learn about the types of Lists in HTML and why we would use them and when?
 
 There are usually 2 types of Lists in HTML.
+___
 
 ### Ordered Lists
 
