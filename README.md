@@ -1,6 +1,6 @@
 # HTML5 Lists
 
-HTML5 Lists BoilerPlate Repo for Wigan Coding Meet Up. Explanitary purposes.
+HTML5 Lists BoilerPlate Repo for Wigan Coding Meet Up. Explanitory purposes.
 
 ## Getting Started
 
