@@ -25,3 +25,13 @@ main {
 ol {
 margin-left: 190px;
 }
+
+hr {
+  display: block;
+  height: 1px;
+  width: 100%;
+  border: 0;
+  border-top: 1px solid #000;
+  margin: 1em 0;
+  padding: 0;
+}
