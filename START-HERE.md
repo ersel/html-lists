@@ -19,3 +19,10 @@ Notice how the list item's are numbered? Hence the name <b>Ordered List</b>
 This is created in HTML with the  &#60;ol&#62;  tag.
 
 The &#60;li&#62; tag is the "List Item" tag. These tag's go together to make the <b>Ordered List </b>.
+
+Here is how the HTML should look:
+
+&#60;li&#62;
+
+
+&#60;li/&#62;
