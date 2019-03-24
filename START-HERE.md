@@ -13,4 +13,4 @@ an <b>Ordered List </b>typically looks like this:
 </ol>
 
 Notice how the list item's are numbered? Hence the name <b>Ordered List</b>
-This is created in HTML with the "ol" tag.
+This is created in HTML with the "<ol>" tag.
