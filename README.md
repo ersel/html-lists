@@ -36,7 +36,7 @@ For Windows users.
 start index.html
 ```
 
-You should now see a page in the browser with a heading and the start of a form.
+You should now see a page in the browser with a heading and the beginning of a form.
 
 ## Built With
 
