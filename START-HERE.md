@@ -1,4 +1,4 @@
-# Welcome to HTML5 Lists.
+# Welcome to HTML5 Lists.  :computer:
 
 In this section we will learn about the types of Lists in HTML, why we would use them and when?
 
