@@ -108,3 +108,11 @@ Here is what the HTML should look like:
 ## Challenge Time!
 
 Can you complete the <b>Nested Un-Ordered List</b> by yourself? use the <span>index.html</span> file and see if you can create some lists of your own!
+<br>
+Can you use <b>Chrome Developer Tools</b> to inspect some websites and see if you can spot the lists they use?
+
+### For more information on HTML5 Lists
+
+* [ul lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+* [ol lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+* [li tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
