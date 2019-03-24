@@ -7,7 +7,7 @@ ___
 
 ### Ordered Lists
 
-an <b>Ordered List </b>typically looks like this:
+An <b>Ordered List </b>typically looks like this:
 
 <ol>
   <li>List item one</li>
@@ -20,7 +20,7 @@ This is created in HTML with the  &#60;ol&#62;  tag.
 
 The &#60;li&#62; tag is the "List Item" tag. These tag's go together to make the <b>Ordered List </b>.
 
-Here is how the HTML should look:
+Here is what the HTML should look like:
 
 &#60;ol&#62;
 <br>
@@ -31,3 +31,32 @@ Here is how the HTML should look:
 &#60;li&#62;List item three&#60;/li&#62;
 <br>
 &#60;/ol&#62;
+
+___
+
+### Un-Ordered Lists
+
+An <b>Un-Ordered List </b>typically looks like this:
+
+<ul>
+  <li>List item</li>
+  <li>List item</li>
+  <li>List item</li>
+</ul>
+
+Notice how the list item's are not numbered this time? Hence the name <b>Un-Ordered List</b>
+This is created in HTML with the  &#60;ul&#62;  tag.
+
+The &#60;li&#62; tag is the "List Item" tag. These tag's go together to make the <b>Un-Ordered List </b>.
+
+Here is what the HTML should look like:
+
+&#60;ul&#62;
+<br>
+&#60;li&#62;List item&#60;/li&#62;
+<br>
+&#60;li&#62;List item&#60;/li&#62;
+<br>
+&#60;li&#62;List item&#60;/li&#62;
+<br>
+&#60;/ul&#62;
