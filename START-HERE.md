@@ -4,6 +4,8 @@ In this section we will learn about the types of Lists in HTML and why we would 
 
 There are usually 2 types of Lists in HTML.
 
+### Ordered Lists
+
 an <b>Ordered List </b>typically looks like this:
 
 <ol>
