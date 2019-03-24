@@ -6,13 +6,19 @@ HTML5 Lists BoilerPlate Repo for Wigan Coding Meet Up. Explanitory purposes.
 
 Start by creating a new folder on your Desktop called <b>projects</b>
 
- Fork and Clone this repository into your newly created projects folder on your Desktop.
+ From the HTML5-lists link below, Fork and Clone this repository into your newly created projects folder on your Desktop.
 
-* [HTML5-lists](https://github.com/Wigan-Coding-Meet-Up/html-lists)
+[HTML5-lists](https://github.com/Wigan-Coding-Meet-Up/html-lists)
+
+ If you are un-aware how to Fork or Clone a repository at this point, then please read:
+
+[Fork A Repo](https://help.github.com/en/articles/fork-a-repo)
+[Cloning A Repository](https://help.github.com/en/articles/cloning-a-repository)
+
 
 ### Installing
 
-Navigate to the repo you have forked and cloned.
+Navigate to the repository you have forked and cloned.
 
 ```
 CD Desktop, CD projects, CD HTML5-forms
